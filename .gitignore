@@ -2,3 +2,4 @@ venv/
 .venv/
 __pycache__/
 .pytest_cache/
+pip install fastapi uvicorn scikit-learn
